@@ -1,0 +1,5 @@
+# data set
+train.csv
+test.csv
+# dummy files
+.ipynb_checkpoints
